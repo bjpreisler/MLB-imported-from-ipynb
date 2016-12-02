@@ -1,2 +1,3 @@
-# panda_practice
-Working through the panda library, planning to use repos here to mark any progress or areas of difficulty
+# P2 for Udacity DAND
+
+Posed research questions, wrangled data, cleaned and transformed data, and finally analyzed the set with a few correlations and statistical tests.
